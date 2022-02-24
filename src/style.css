@@ -2,9 +2,9 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 18px;
     margin: 1% 5%;
-    background-color:E6F7FF;
     background: url(https://www.bbva.com/wp-content/uploads/2016/10/Curriculum-vitae-cv-proceso-de-seleccion-BBVA.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
