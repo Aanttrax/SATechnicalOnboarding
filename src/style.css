@@ -11,6 +11,10 @@ body {
     height: 100vh;
 }
 
+article {
+    width: 500px;
+}
+
 main {
     display: grid;
     grid-template-columns: 50% 50%;
@@ -26,6 +30,7 @@ main {
     padding: .0em .5em .1em .5em;
     margin-bottom: .5em;
     margin-top: .3em;
+    background-color: rgba(255, 255, 255, 0.6);
 }
 
 h1 {
